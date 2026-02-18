@@ -14,7 +14,7 @@ Tenho experiência administrativa com organização e padronização de informa�
 Atualmente desenvolvo projetos acadêmicos e práticos utilizando Python e SQL, aplicando conceitos de lógica de programação, manipulação e visualização de dados.
 
 
-##  Tecnologias que utilizo
+##  Tecnologia que utilizo
 
 - Python
 - SQL
